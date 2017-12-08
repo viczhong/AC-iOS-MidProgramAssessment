@@ -43,7 +43,7 @@
 
 Try to format the detail view as much like an individual element on a traditional periodic table as you can. You **cannot** use the thumbnail image inside the detail view controller, you need to format it yourself.
 
-Sample table: [http://sciencenotes.org/wp-content/uploads/2013/06/PeriodicTable-NoBackground2.png](http://sciencenotes.org/wp-content/uploads/2013/06/PeriodicTable-NoBackground2.png)
+Sample element: [https://sciencenotes.org/wp-content/uploads/2015/04/06-Carbon-Tile.png](https://sciencenotes.org/wp-content/uploads/2015/04/06-Carbon-Tile.png)
 
 **Be sure to still include the image, melting and boiling points, which are part of the basic requirements.**   I'd recommend generating the traditional representation and then just putting the extra info outside of it.
 ## Endpoints
