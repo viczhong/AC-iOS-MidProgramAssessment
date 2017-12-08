@@ -68,7 +68,7 @@ Example: http://images-of-elements.com/argon.jpg
 
 Use the file naming convention illustrated here to generate urls for images.
 
-These are both http urls, so you will need change your info.plist to allow arbitrary loads.
+These are both http urls, so you will need change your info.plist to [allow arbitrary loads](https://stackoverflow.com/questions/31254725/transport-security-has-blocked-a-cleartext-http).
 
 No full size images are available for atomic numbers 90 and up.
 
