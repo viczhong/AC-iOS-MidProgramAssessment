@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  AC-iOS-MidProgramAssessment
+//  AC3.2-MidtermElements
 //
-//  Created by C4Q  on 12/7/17.
-//  Copyright © 2017 C4Q . All rights reserved.
+//  Created by Victor Zhong on 12/8/16.
+//  Copyright © 2016 Victor Zhong. All rights reserved.
 //
 
 import UIKit
